@@ -1,5 +1,7 @@
 ##Week 4 assessment
 
+Fork and clone, then submit a PR when you're done. Good luck!
+
 ###1. We have some queries for you:
 
 Answer [these 10 questions](https://docs.google.com/forms/d/1pxzwnNQgksO9BOvC56F9fdogG22abKeMXMCECdq6YjU/viewform?usp=send_form) on a Google form.
